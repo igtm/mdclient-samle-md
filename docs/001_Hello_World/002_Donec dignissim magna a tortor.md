@@ -6,6 +6,16 @@ sagittis semper. Nam tempor diam dictum sapien. Aenean massa. Integer
 Sed et libero. Proin mi. Aliquam gravida mauris ut mi.
 Etiam bibendum fermentum metus. Aenean sed pede nec ante blandit
 
+## Image center
+
+<p align="center">
+  <img src="https://picsum.photos/600/480">
+</p>
+
+## Image left
+
+![](./623-600x480.jpg)
+
 ## Code
 
 ```
